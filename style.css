@@ -1,0 +1,49 @@
+* {
+    margin: o;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+header{
+    background-color: rgba(171, 11, 219, 0.632);
+    width: 100%;
+    float: left;
+}
+.container{
+    margin: auto;
+    width: 90%;
+}
+.navigation-part{
+    width: 100%;
+    float: left;
+}
+.hero-part{
+    width: 100%;
+    float: left;
+}
+.logo-part{
+    width:50% ;
+    float: left;
+}
+.menu-part{
+    width: 50%;
+    float: left;
+}
+#service {
+    background-color: aqua;
+    width: 100%;
+    float: left;
+}
+.service-writing-part {
+    width: 100%;
+    float: left;
+}
+.service box-part {
+    width: 100%;
+    float: left;
+}
+.service-box {
+    width: 25%;
+    float: left;
+}
